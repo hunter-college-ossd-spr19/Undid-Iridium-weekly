@@ -1,12 +1,6 @@
----
-layout: page
-title: About
-permalink: /about/
----
+# Weekly Blog Repository
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+Repository Owner: Francis X Irizarry  
+Purpose: To document events/thoughts/ventilation/ideas regarding open source development within my own efforts, and of others.   
+Goal: Have provided enough detail and work to correct state that I contributed to a project for the betterment of everyone. 
+Blogs: https://hunter-college-cs-ossd.github.io/FrancisXIrizarry-weekly/
